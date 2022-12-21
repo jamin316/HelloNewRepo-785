@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RahulShettyAcademy Test Automation Test Suite">
+	<test name="RahulShettyAcademy Test Cases">
+		<classes>
+			<class name="com.practice.qa.testcases.LoginPageTest" />
+			<class name="com.practice.qa.testcases.HomePageTest" />
+			<class name="com.practice.qa.testcases.FooterLinksPageTest" />
+			<class name="com.practice.qa.testcases.FirstPageofWebsiteTest" />
+			<class name="com.practice.qa.testcases.AboutUsPageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+ 
